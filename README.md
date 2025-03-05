@@ -1,0 +1,2 @@
+# g3_training
+repository_for_g3_training
